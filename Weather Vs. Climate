@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Mini weather Project
+        </title>
+    </head>
+    <body style="background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtpMu3c1AgN-X0wtalZwKBQlqHY0tlm8WJg&s');background-size:cover;">
+    <h1 style="color:green; text-align:center;"><b><u>Weather Vs. Climate</u></b></h1><hr>
+    <h2 style="color:red;">What is weather?</h2>
+    <p><mark>Weather</mark>is the mix of events that happen each day on the atmosphere.Weather is different on different parts of the world and changes over minutes, hours, days, and weeks.Most weather happens in the atmosphere, the part of Earth's atmosphere that is closest to the ground.</p><br>
+    <h3><b>TYPES OF WEATHER</b></h3>
+    <ul style="list-style:square;color:yellow;">
+        <li>Tropical Storm or Hurricane</li>
+        <li>Tornado</li>
+        <li>Heat Wave</li>
+        <li>Rain</li>
+    </ul>
+    <center><img src="https://imgproxy.epicpxls.com/rYECWXln202Ok3rM5DqR6BK8RM_Bfg0j25yqpbVjl_A/rs:fill:409:307:0/g:no/aHR0cHM6Ly9pdGVt/cy5lcGljcHhscy5j/b20vdXBsb2Fkcy9w/aG90by8xYWVmMGIy/MjE3MDY1MzIxNzJj/ZmM3ODNjYjJjZTNl/Yw.jpg" style="height:200px;width:300px;"></center><br><hr><br>  
+    <h1 style="color:red;">What is Climate?</h1>
+    <p><mark>Climate</mark>is the average weather given over a long period of time.A discription of climate includes information on e.g. the average tempeture in different seasons, rainfall, and sunshine.Also a discription of the (chance of) extremes is often included. Climate change is any systematic change in the long-term statistics of climate variables such as tempeture, precipitation,pressure, or wind sustained over several decades or longer.Climate change can be due to natural extenal forcings (changes in solar emision or changes in the earth's orbit, natural internal processess of the climate system) or it can be human induced</p><br>
+    <h3><b>TYPES OF Climate</b></h3>
+    <ul style="list-style:square;color:yellow;">
+        <li>Polar climate</li>
+        <li>Continentail climate</li>
+        <li>Dessert</li>
+        <li>Tropical rainforest climate</li>
+    </ul>
+  <center>  <img src="https://image.slidesharecdn.com/worldclimates-101121123344-phpapp01/85/World-climates-1-320.jpg" style="height:200px;width:300px;"></center>
+
+    </body>
+</html>
